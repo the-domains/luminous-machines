@@ -1,4 +1,3 @@
-layout_spectrum: 0.07686807517893612
 typography_spectrum: 0.9195308852940798
 color:
   brandStrength: 0.059529778780415654
@@ -6,9 +5,11 @@ color:
   saturation: 0.9421247660648078
   rhythmicContrast: 0.6172798855695873
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.07686807517893612
 name: Luminous Machines
+description: 'A place fore techies, travelers, and drunks to just have fun!'
